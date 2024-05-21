@@ -1,6 +1,6 @@
-# PirateTest Bot
+# PirateLord Bot
 
-PirateTest is a Discord bot designed for my server (Sea of Thieves communities). It offers various functionalities such as music playback, role management, message reactions, and voice channel management.
+PirateLord is a Discord bot designed for my server (Sea of Thieves communities). It offers various functionalities such as music playback, role management, message reactions, and voice channel management.
 
 ## Table of Contents
 - [Features](#features)
